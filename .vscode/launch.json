@@ -15,8 +15,8 @@
             "sourceMaps": true,
             "env": {
                 "NODE_ENV": "local",
-                "IotHubConnectionString": "",
-                "EventHubConsumerGroup": "monitoring"
+                "IotHubConnectionString": "HostName=myworkiot.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=amB1fU0HLei2Z19cAsEeJ1oMURTrxQU1MAIoTDSwWPc=",
+                "EventHubConsumerGroup": "irabottwo"
             }
         }
     ]
